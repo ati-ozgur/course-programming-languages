@@ -118,12 +118,20 @@ Following topics are prerequisite fundamental concepts:
 	- var keyword in C#
 
 18. Object oriented programming examples in C#
+	- everything is object
+	- override
+	- overriding well known methods
+		- ToString
+		- ...
 	- abstract classes
 	- sealed classes
-	- virtual vs override
+	- virtual 
 	- abstract classes vs interfaces
 	- multiple inheritance diamond problem
 	- simulation of multiple inheritance with interfaces
+	- private, protected, internal modifiers
+
+
 
 19. Object oriented programming examples in javascript/typescript
 	- function based module and class implementation 
@@ -141,6 +149,7 @@ Following topics are prerequisite fundamental concepts:
 
 
 
-reference book:
+reference books:
 
-https://en.m.wikibooks.org/wiki/Introduction_to_Programming_Languages
+- https://en.m.wikibooks.org/wiki/Introduction_to_Programming_Languages
+- http://cs.brown.edu/courses/cs173/2012/book/
