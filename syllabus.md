@@ -77,11 +77,13 @@ Following topics are prerequisite fundamental concepts:
 
 10. Functions 2
 	- callback functions
-	- returning more than one value
+	- returning more than one value from functions
+	- tuples in C# and javascript
+	- Javascript spread and rest operators
 	- higher-order functions
 		- functions as function parameters
 		- returning functions
-	- async functions
+	- async and await functions
 		- example in javascript
 		- example in C#
 		- example in python
