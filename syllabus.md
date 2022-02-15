@@ -7,6 +7,7 @@ For example anonymous function exists in javascript, C# and python.
 Python examples will be given if time remains.
 This is not a basic course.
 Following topics are prerequisite fundamental concepts:
+
 	- write simple programs
 	- conditionals
 	- loops
