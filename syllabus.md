@@ -14,6 +14,7 @@ Following topics are prerequisite fundamental concepts:
 
 There will be two examinations, midterm (%35) and final (%65).
 Examinations questions will consists of: 
+
 	- True/False questions
 	- Multiple choice questions
 	- Program output writing
