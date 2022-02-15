@@ -20,16 +20,16 @@ Following topics are prerequisite fundamental concepts:
 	- REPL example in nodejs and ipython
 
 2. Compilation
-	a. Effect of operating system in compilation.
+	1. Effect of operating system in compilation.
 	Example from C/C++
-	b. Virtual machine approach and JIT (Just in time compilation)
+	2. Virtual machine approach and JIT (Just in time compilation)
 		- Examples from java and .NET
 		- Java byte code
 		- .NET intermediate language IL
 		- IL to C#
 		- java byte code to java 
 
-	c. Compilation of scripting language python
+	3. Compilation of scripting language python
 
 3. Dynamic vs. static typing
 	- examples in javascript
