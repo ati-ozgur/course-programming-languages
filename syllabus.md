@@ -99,14 +99,23 @@ Examinations questions will consists of:
 	- lambda functions
 
 11. Functional programming paradigms
-	- pipes in operating systems
+	- pipes in command line
+		- grep, wc
+	- arrays
+		- difference between javascript and c#
+	- list in c#
+	- array vs list in c#
+	- array vs list in javascript??
 	- map and filter in javascript
+	- dictionaries in javascript
+	- dictionaries in c#
+	- difference between array, list and dictionary. How to choose?
 
-12. iteration and iterators
+13. iteration and iterators
 	- yield in C#
 	- yield in javascript
 
-11. data structures
+14. data structures
 	- classes vs objects in C# 
 	- structs in C#
 	- classes in old javascript
@@ -114,24 +123,24 @@ Examinations questions will consists of:
 	- records in c#
 	- records typescript
 
-12. Recursive functions 
-13. Recursive types
+15. Recursive functions 
+16. Recursive types
 		- Tree nodes
 		- graphs
 
-14. Mutation and benefits of no mutation
+17. Mutation and benefits of no mutation
 	- readonly in C#
 	- const in C# 
 	- const in javascript
 
-15. closures
+18. closures
 
-16. Currying
+19. Currying
 
-17. Type inference
+20. Type inference
 	- var keyword in C#
 
-18. Object oriented programming examples in C#
+21. Object oriented programming examples in C#
 	- everything is object
 	- override
 	- overriding well known methods
@@ -147,25 +156,25 @@ Examinations questions will consists of:
 
 
 
-19. Object oriented programming examples in javascript/typescript
+22. Object oriented programming examples in javascript/typescript
 	- function based module and class implementation 
 
-20. namespace, assembly, library reference,  packaging in .NET
+23. namespace, assembly, library reference,  packaging in .NET
 
-21. Module, import, library reference,  packaging in javascript
+24. Module, import, library reference,  packaging in javascript
 
-22. Eval in javascript and python.
+25. Eval in javascript and python.
 	- security concerns
 	- reflection in C#
 
-23. Exception handling in C# and Javascript
+26. Exception handling in C# and Javascript
 	- throw statements
 	- try…catch statements
 	- try…catch…finally statements.
 
-24. Generics in C#
+27. Generics in C#
 
-25. Laziness, streams, and memoization
+28. Laziness, streams, and memoization
 
 
 
