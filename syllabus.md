@@ -144,7 +144,14 @@ Following topics are prerequisite fundamental concepts:
 	- security concerns
 	- reflection in C#
 
-23. Laziness, streams, and memoization
+23. Exception handling in C# and Javascript
+	- throw statements
+	- try…catch statements
+	- try…catch…finally statements.
+
+
+
+24. Laziness, streams, and memoization
 
 
 
