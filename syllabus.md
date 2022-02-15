@@ -12,6 +12,13 @@ Following topics are prerequisite fundamental concepts:
 	- loops
 	- compiling and running programs
 
+There will be two examinations, midterm (%35) and final (%65).
+Examinations questions will consists of: 
+	- True/False questions
+	- Multiple choice questions
+	- Program output writing
+	- Code writing
+
 
 1. Introduction
 	- Compiled vs Interpreted languages
