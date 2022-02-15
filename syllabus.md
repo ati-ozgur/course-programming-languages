@@ -98,6 +98,9 @@ Examinations questions will consists of:
 	- anonymous functions
 	- lambda functions
 
+11. Functional programming paradigms
+	- pipes in operating systems
+	- map and filter in javascript
 
 11. data structures
 	- classes vs objects in C# 
