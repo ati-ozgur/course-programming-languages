@@ -39,8 +39,9 @@ Following topics are prerequisite fundamental concepts:
 4. Data Types
 	- basic data types in javascript
 	- basic data types in c#
-	- struct vs objects in c#
+	- struct vs classes in c#
 	- heap memory vs stack
+	- boxing in c#
 
 
 5. Conditionals in  javascript, python and c#
@@ -86,10 +87,6 @@ Following topics are prerequisite fundamental concepts:
 		- example in python
 	- anonymous functions
 	- lambda functions
-
-
-
-
 
 
 11. data structures
@@ -149,9 +146,9 @@ Following topics are prerequisite fundamental concepts:
 	- try…catch statements
 	- try…catch…finally statements.
 
+24. Generics in C#
 
-
-24. Laziness, streams, and memoization
+25. Laziness, streams, and memoization
 
 
 
