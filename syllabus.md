@@ -107,8 +107,10 @@ Examinations questions will consists of:
 	- array vs list in c#
 	- array vs list in javascript??
 	- map and filter in javascript
-	- dictionaries in javascript
 	- dictionaries in c#
+	- dictionaries in javascript
+	 	- create dictionary with Object
+	 	- JSON
 	- difference between array, list and dictionary. How to choose?
 
 13. iteration and iterators
