@@ -114,10 +114,12 @@ Examinations questions will consists of:
 	- difference between array, list and dictionary. How to choose?
 
 13. iteration and iterators
+
 	- yield in C#
 	- yield in javascript
 
 14. data structures
+
 	- classes vs objects in C# 
 	- structs in C#
 	- classes in old javascript
@@ -127,6 +129,7 @@ Examinations questions will consists of:
 
 15. Recursive functions 
 16. Recursive types
+
 		- Tree nodes
 		- graphs
 
