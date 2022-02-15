@@ -73,7 +73,7 @@ Following topics are prerequisite fundamental concepts:
 	- module scope
 	- namespace scope
 
-9. [Binding]
+9. [Binding](course-content/Binding.md)
 
 10. Functions 2
 	- callback functions
