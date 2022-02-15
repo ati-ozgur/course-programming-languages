@@ -102,6 +102,10 @@ Examinations questions will consists of:
 	- pipes in operating systems
 	- map and filter in javascript
 
+12. iteration and iterators
+	- yield in C#
+	- yield in javascript
+
 11. data structures
 	- classes vs objects in C# 
 	- structs in C#
