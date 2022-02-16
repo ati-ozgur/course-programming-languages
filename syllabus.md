@@ -26,6 +26,13 @@ Examination questions will consists of:
 	- Compiled vs Interpreted languages
 	- Strongly typed vs dynamic typed languages
 	- running hello world program examples in different programming languages
+		- VS Code introduction
+		- nodejs installation
+		- javascript in node
+		- javascript in browser
+		- Dotnet SDK installation
+		- typescript 
+		- C# 
 	- REPL example in nodejs and ipython
 
 2. Compilation
