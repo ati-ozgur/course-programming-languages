@@ -4,7 +4,7 @@ Instead of using traditional languages like ML/OCAML, we will use popular progra
 Most Examples will be given in  C# and javascript.
 Some examples could be given in other languages like C/C++ or java or python.
 Most modern programming languages incorporated a lot of programming language concepts to their core in recent years.
-For example anonymous function exists in javascript, C# and python.
+For example anonymous functions exists in javascript, C# and python.
 This is not a basic course.
 Following topics are prerequisite fundamental concepts:
 
@@ -131,7 +131,7 @@ Examination questions will consists of:
 	- classes vs objects in C# 
 	- structs in C#
 	- classes in old javascript
-	- classes in Modern (ES6) javascript
+	- classes in Modern (ES6+) javascript
 	- records in c#
 	- records typescript
 
@@ -165,7 +165,7 @@ Examination questions will consists of:
 	- abstract classes vs interfaces
 	- multiple inheritance diamond problem
 	- simulation of multiple inheritance with interfaces
-	- private, protected, internal modifiers
+	- private, public, protected, internal modifiers
 
 
 
