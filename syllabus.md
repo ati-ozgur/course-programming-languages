@@ -1,10 +1,10 @@
 # Syllabus 
 
 Instead of using traditional languages like ML/OCAML, we will use well known programming languages in this course.
-Examples will be given in javascript/typescript, C#, python and C/C++.
+Most Examples will be given in  C# and javascript.
+Some examples could be given in other languages like C/C++ or java or python.
 Most modern programming languages incorporated a lot of programming language concepts to their core in recent years.
 For example anonymous function exists in javascript, C# and python.
-Python examples will be given if time remains.
 This is not a basic course.
 Following topics are prerequisite fundamental concepts:
 
