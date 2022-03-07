@@ -42,8 +42,8 @@ Examination questions will consists of:
 		- Examples from java and .NET
 		- Java byte code
 		- .NET intermediate language IL
-		- IL to C#
-		- java byte code to java 
+		- IL to C#, VB.NET or F#
+		- java byte code to java and other JVM languages like kotlin, groovy
 
 	3. Compilation of scripting language python
 
