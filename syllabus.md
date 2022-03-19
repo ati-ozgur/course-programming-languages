@@ -133,6 +133,7 @@ Examination questions will consists of:
 	- classes in old javascript
 	- classes in Modern (ES6+) javascript
 	- records in c#
+		- see example video (https://www.youtube.com/watch?v=9v6RENPk5iM)
 	- records typescript
 
 15. Recursive functions 
