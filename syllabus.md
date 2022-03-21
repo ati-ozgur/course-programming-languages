@@ -50,7 +50,6 @@ Examination questions will consists of:
 3. Dynamic vs. static typing
 	- examples in javascript
 	- examples in c#
-	- examples in python
 
 4. Data Types
 	- basic data types in javascript
@@ -60,7 +59,7 @@ Examination questions will consists of:
 	- boxing in c#
 
 
-5. Conditionals in  javascript, python and c#
+5. Conditionals in  javascript and c#
 	- [Falsy in javascript](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 	- [Truthy in javascript](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 	- [if else in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
@@ -68,11 +67,17 @@ Examination questions will consists of:
 	- [selection statements (if, else, else if) in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements)
 	- [switch expression in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/switch-expression)
 
-6. Loops in javascript, c# and python
-	- while
-	- for loop
-	- do while
-	- foreach
+6. Loops in javascript and c#
+	- [do while in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while) 
+	- [while in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+	- [for in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+	- [for...of in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+	- [for...in in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+	- [iteration statements in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/iteration-statements)
+	- [for in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#1294-the-for-statement)
+	- [do while in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#1293-the-do-statement)
+	- [while in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#1292-the-while-statement)
+	- [foreach in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#1295-the-foreach-statement)
 
 
 7. Functions 1 
