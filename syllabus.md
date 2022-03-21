@@ -111,7 +111,6 @@ Examination questions will consists of:
 	- async and await functions
 		- example in javascript
 		- example in C#
-		- example in python
 	- anonymous functions
 	- lambda functions
 
