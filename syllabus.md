@@ -83,7 +83,6 @@ Examination questions will consists of:
 7. Functions 1 
 	- Examples in javascript
 	- Examples in C#
-	- Examples in Python
 	- parameter overloading 
 	- default parameters
 	- overloading vs default parameters
@@ -185,7 +184,7 @@ Examination questions will consists of:
 
 24. Module, import, library reference,  packaging in javascript
 
-25. Eval in javascript and python.
+25. Eval in javascript.
 	- security concerns
 	- reflection in C#
 
