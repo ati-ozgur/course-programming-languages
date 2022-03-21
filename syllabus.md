@@ -65,7 +65,8 @@ Examination questions will consists of:
 	- [Truthy in javascript](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 	- [if else in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 	- [switch in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
-	- if, else, else if in c#
+	- [selection statements (if, else, else if) in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements)
+	- [switch expression in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/switch-expression)
 
 6. Loops in javascript, c# and python
 	- while
