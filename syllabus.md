@@ -61,8 +61,11 @@ Examination questions will consists of:
 
 
 5. Conditionals in  javascript, python and c#
-	- if, else, else if (elif)
-	- switch
+	- [Falsy in javascript](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+	- [Truthy in javascript](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
+	- [if else in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+	- [switch in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+	- if, else, else if in c#
 
 6. Loops in javascript, c# and python
 	- while
