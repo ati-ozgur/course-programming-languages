@@ -128,12 +128,12 @@ Examination questions will consists of:
 	 	- JSON
 	- difference between array, list and dictionary. How to choose?
 
-13. iteration and iterators
+12. iteration and iterators
 
 	- yield in C#
 	- yield in javascript
 
-14. data structures
+13. data structures
 
 	- classes vs objects in C# 
 	- structs in C#
@@ -143,25 +143,25 @@ Examination questions will consists of:
 		- see example video (https://www.youtube.com/watch?v=9v6RENPk5iM)
 	- records typescript
 
-15. Recursive functions 
-16. Recursive types
+14. Recursive functions 
+15. Recursive types
 
 		- Tree nodes
 		- graphs
 
-17. Mutation and benefits of no mutation
+16. Mutation and benefits of no mutation
 	- readonly in C#
 	- const in C# 
 	- const in javascript
 
-18. closures
+17. closures
 
-19. Currying
+18. Currying
 
-20. Type inference
+19. Type inference
 	- var keyword in C#
 
-21. Object oriented programming examples in C#
+20. Object oriented programming examples in C#
 	- everything is object
 	- override
 	- overriding well known methods
@@ -177,25 +177,25 @@ Examination questions will consists of:
 
 
 
-22. Object oriented programming examples in javascript/typescript
+21. Object oriented programming examples in javascript/typescript
 	- function based module and class implementation 
 
-23. namespace, assembly, library reference,  packaging in .NET
+22. namespace, assembly, library reference,  packaging in .NET
 
-24. Module, import, library reference,  packaging in javascript
+23. Module, import, library reference,  packaging in javascript
 
-25. Eval in javascript.
+24. Eval in javascript.
 	- security concerns
 	- reflection in C#
 
-26. Exception handling in C# and Javascript
+25. Exception handling in C# and Javascript
 	- throw statements
 	- try…catch statements
 	- try…catch…finally statements.
 
-27. Generics in C#
+26. Generics in C#
 
-28. Laziness, streams, and memoization
+27. Laziness, streams, and memoization
 
 
 
