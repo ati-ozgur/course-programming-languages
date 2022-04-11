@@ -103,7 +103,7 @@ Examination questions will consists of:
 	- callback functions
 	- returning more than one value from functions
 	- tuples in C# and javascript
-	- Javascript spread and rest operators
+	- Javascript [spread](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) and [rest](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) operators
 	- higher-order functions
 		- functions as function parameters
 		- returning functions
