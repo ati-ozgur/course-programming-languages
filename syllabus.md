@@ -53,7 +53,7 @@ Examination questions will consists of:
 
 4. Data Types
 	- [basic data types in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-	- basic data types in c#
+	- [basic data types in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
 	- struct vs classes in c#
 	- heap memory vs stack
 	- boxing in c#
