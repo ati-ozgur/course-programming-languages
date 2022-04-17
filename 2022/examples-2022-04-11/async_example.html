@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="demo">
+<h2>The XMLHttpRequest Object</h2>
+<button type="button" onclick="loadDoc()">Change Content</button>
+</div>
+
+<script>
+import axios from 'axios';
+
+
+async function dummy_service() {
+    const url = "http://dummy.restapiexample.com/api/v1/employees";
+    try {
+        const result = await axios.get(url);
+        //console.log(result);
+        return result.data;
+    }
+    catch (error) {
+        console.log(error);
+    }
+
+}
+
+(async function() {
+    json_result = await dummy_service();
+    console.log(json_result);
+})();
+
+</script>
+
+</body>
+</html>
