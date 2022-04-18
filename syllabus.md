@@ -91,7 +91,7 @@ Examination questions will consists of:
 
 8. Scope in programming languages
 	- block scope
-	- function scope
+	- [function scope](https://www.w3schools.com/js/js_scope.asp)
 		- javascript var vs let
 	- class scope
 	- module scope
