@@ -128,10 +128,13 @@ Examination questions will consists of:
 	 	- JSON
 	- difference between array, list and dictionary. How to choose?
 
-12. iteration and iterators
+12. iteration, iterators, generators
 
 	- yield in C#
-	- yield in javascript
+	- generators in javascript
+		- https://dzone.com/articles/how-javascript-generator-functions-work?edition=722501
+		- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator
+		- yield in javascript
 
 13. data structures
 
