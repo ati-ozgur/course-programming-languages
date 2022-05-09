@@ -122,6 +122,7 @@ Examination questions will consists of:
 	- array vs list in c#
 	- array vs list in javascript??
 	- map and filter in javascript
+	- map/Select and filter/Where in C# using LINQ
 	- dictionaries in c#
 	- dictionaries in javascript
 	 	- create dictionary with Object
