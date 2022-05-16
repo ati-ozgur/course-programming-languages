@@ -110,6 +110,7 @@ Examination questions will consists of:
 	- async and await functions
 		- examples in javascript
 			- [Asynchronous Vs Synchronous Programming](https://www.youtube.com/watch?v=Kpn2ajSa92c)
+			- [Callback Hell](https://www.youtube.com/watch?v=EQem2gugonA)
 			- [The Story of Asynchronous JavaScript](https://www.youtube.com/watch?v=rivBfgaEyWQ)
 			- [Asynchronous JavaScript in ~10 Minutes - Callbacks, Promises, and Async/Await](https://www.youtube.com/watch?v=670f71LTWpM)
 		- example in C#
