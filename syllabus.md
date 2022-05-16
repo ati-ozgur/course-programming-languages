@@ -108,8 +108,12 @@ Examination questions will consists of:
 		- functions as function parameters
 		- returning functions
 	- async and await functions
-		- example in javascript
+		- examples in javascript
+			- [Asynchronous Vs Synchronous Programming](https://www.youtube.com/watch?v=Kpn2ajSa92c)
+			- [The Story of Asynchronous JavaScript](https://www.youtube.com/watch?v=rivBfgaEyWQ)
+			- [Asynchronous JavaScript in ~10 Minutes - Callbacks, Promises, and Async/Await](https://www.youtube.com/watch?v=670f71LTWpM)
 		- example in C#
+			-[Async and await in C# example](https://www.youtube.com/watch?v=C5VhaxQWcpE)
 	- anonymous functions
 	- lambda functions
 
@@ -135,7 +139,7 @@ Examination questions will consists of:
 	- generators in javascript
 		- https://dzone.com/articles/how-javascript-generator-functions-work?edition=722501
 		- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator
-		- yield in javascript
+	- yield in javascript
 
 13. data structures
 
