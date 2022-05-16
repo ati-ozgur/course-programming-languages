@@ -136,11 +136,13 @@ Examination questions will consists of:
 
 12. iteration, iterators, generators
 
-	- yield in C#
-	- generators in javascript
+	- yield return in C#
+		- [C# yield return Statement](https://www.youtube.com/watch?v=L6R08ajgZpU)
+	- yield/generators in javascript
 		- https://dzone.com/articles/how-javascript-generator-functions-work?edition=722501
 		- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator
-	- yield in javascript
+		- [JavaScript ES6 / ES2015 - [11] Generators](https://www.youtube.com/watch?v=dcP039DYzmE)
+		- [Learn JavaScript Generators In 12 Minutes](https://www.youtube.com/watch?v=IJ6EgdiI_wU)
 
 13. data structures
 
