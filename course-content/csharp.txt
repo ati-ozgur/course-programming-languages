@@ -1,0 +1,8 @@
+# csharp
+
+
+C# documentation
+https://docs.microsoft.com/en-us/dotnet/csharp/
+
+.NET: Free. Cross platform. Open source.
+https://docs.microsoft.com/en-us/dotnet/

@@ -1,0 +1,6 @@
+# basic-data-types-in-csharp
+
+- https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types
+- https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp-local
+
+

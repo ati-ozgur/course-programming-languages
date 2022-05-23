@@ -42,39 +42,47 @@ Examination questions will consists of:
 		- Examples from java and .NET
 		- Java byte code
 		- .NET intermediate language IL
-		- IL to C#
-		- java byte code to java 
+		- IL to C#, VB.NET or F#
+		- java byte code to java and other JVM languages like kotlin, groovy
 
 	3. Compilation of scripting language python
 
 3. Dynamic vs. static typing
 	- examples in javascript
 	- examples in c#
-	- examples in python
 
 4. Data Types
-	- basic data types in javascript
-	- basic data types in c#
+	- [basic data types in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+	- [basic data types in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
 	- struct vs classes in c#
 	- heap memory vs stack
-	- boxing in c#
+	- [boxing in c#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing)
 
 
-5. Conditionals in  javascript, python and c#
-	- if, else, else if (elif)
-	- switch
+5. Conditionals in  javascript and c#
+	- [Falsy in javascript](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+	- [Truthy in javascript](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
+	- [if else in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+	- [switch in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+	- [selection statements (if, else, else if) in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements)
+	- [switch expression in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/switch-expression)
 
-6. Loops in javascript, c# and python
-	- while
-	- for loop
-	- do while
-	- foreach
+6. Loops in javascript and c#
+	- [do while in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while) 
+	- [while in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+	- [for in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+	- [for...of in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+	- [for...in in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+	- [iteration statements in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/iteration-statements)
+	- [for in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#1294-the-for-statement)
+	- [do while in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#1293-the-do-statement)
+	- [while in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#1292-the-while-statement)
+	- [foreach in c#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/statements#1295-the-foreach-statement)
 
 
 7. Functions 1 
 	- Examples in javascript
 	- Examples in C#
-	- Examples in Python
 	- parameter overloading 
 	- default parameters
 	- overloading vs default parameters
@@ -83,7 +91,7 @@ Examination questions will consists of:
 
 8. Scope in programming languages
 	- block scope
-	- function scope
+	- [function scope](https://www.w3schools.com/js/js_scope.asp)
 		- javascript var vs let
 	- class scope
 	- module scope
@@ -95,14 +103,18 @@ Examination questions will consists of:
 	- callback functions
 	- returning more than one value from functions
 	- tuples in C# and javascript
-	- Javascript spread and rest operators
+	- Javascript [spread](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) and [rest](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) operators
 	- higher-order functions
 		- functions as function parameters
 		- returning functions
 	- async and await functions
-		- example in javascript
+		- examples in javascript
+			- [Asynchronous Vs Synchronous Programming](https://www.youtube.com/watch?v=Kpn2ajSa92c)
+			- [Callback Hell](https://www.youtube.com/watch?v=EQem2gugonA)
+			- [The Story of Asynchronous JavaScript](https://www.youtube.com/watch?v=rivBfgaEyWQ)
+			- [Asynchronous JavaScript in ~10 Minutes - Callbacks, Promises, and Async/Await](https://www.youtube.com/watch?v=670f71LTWpM)
 		- example in C#
-		- example in python
+			-[Async and await in C# example](https://www.youtube.com/watch?v=C5VhaxQWcpE)
 	- anonymous functions
 	- lambda functions
 
@@ -115,45 +127,52 @@ Examination questions will consists of:
 	- array vs list in c#
 	- array vs list in javascript??
 	- map and filter in javascript
+	- map/Select and filter/Where in C# using LINQ
 	- dictionaries in c#
 	- dictionaries in javascript
 	 	- create dictionary with Object
 	 	- JSON
 	- difference between array, list and dictionary. How to choose?
 
-13. iteration and iterators
+12. iteration, iterators, generators
 
-	- yield in C#
-	- yield in javascript
+	- yield return in C#
+		- [C# yield return Statement](https://www.youtube.com/watch?v=L6R08ajgZpU)
+	- yield/generators in javascript
+		- https://dzone.com/articles/how-javascript-generator-functions-work?edition=722501
+		- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator
+		- [JavaScript ES6 / ES2015 - [11] Generators](https://www.youtube.com/watch?v=dcP039DYzmE)
+		- [Learn JavaScript Generators In 12 Minutes](https://www.youtube.com/watch?v=IJ6EgdiI_wU)
 
-14. data structures
+13. data structures
 
 	- classes vs objects in C# 
 	- structs in C#
 	- classes in old javascript
 	- classes in Modern (ES6+) javascript
 	- records in c#
+		- see example video (https://www.youtube.com/watch?v=9v6RENPk5iM)
 	- records typescript
 
-15. Recursive functions 
-16. Recursive types
+14. Recursive functions 
+15. Recursive types
 
 		- Tree nodes
 		- graphs
 
-17. Mutation and benefits of no mutation
+16. Mutation and benefits of no mutation
 	- readonly in C#
 	- const in C# 
 	- const in javascript
 
-18. closures
+17. closures
 
-19. Currying
+18. Currying
 
-20. Type inference
+19. Type inference
 	- var keyword in C#
 
-21. Object oriented programming examples in C#
+20. Object oriented programming examples in C#
 	- everything is object
 	- override
 	- overriding well known methods
@@ -169,25 +188,25 @@ Examination questions will consists of:
 
 
 
-22. Object oriented programming examples in javascript/typescript
+21. Object oriented programming examples in javascript/typescript
 	- function based module and class implementation 
 
-23. namespace, assembly, library reference,  packaging in .NET
+22. namespace, assembly, library reference,  packaging in .NET
 
-24. Module, import, library reference,  packaging in javascript
+23. Module, import, library reference,  packaging in javascript
 
-25. Eval in javascript and python.
+24. Eval in javascript.
 	- security concerns
 	- reflection in C#
 
-26. Exception handling in C# and Javascript
+25. Exception handling in C# and Javascript
 	- throw statements
 	- try…catch statements
 	- try…catch…finally statements.
 
-27. Generics in C#
+26. Generics in C#
 
-28. Laziness, streams, and memoization
+27. Laziness, streams, and memoization
 
 
 

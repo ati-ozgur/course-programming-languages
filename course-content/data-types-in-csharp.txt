@@ -1,0 +1,6 @@
+# data-types-in-csharp
+
+https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/
+
+
+

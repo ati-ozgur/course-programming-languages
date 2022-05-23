@@ -1,0 +1,6 @@
+# basic-data-types-in-javascript
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+- https://www.w3schools.com/js/js_datatypes.asp
+
+
