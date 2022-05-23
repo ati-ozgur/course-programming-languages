@@ -1,0 +1,7 @@
+Currying.txt
+
+
+https://javascript.info/currying-partials
+https://www.w3docs.com/learn-javascript/currying.html
+https://en.wikipedia.org/wiki/Currying
+
