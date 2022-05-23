@@ -159,8 +159,8 @@ Examination questions will consists of:
 	- overriding well known methods
 		- ToString
 		- ...
-	- abstract classes
 	- sealed classes
+	- abstract classes
 	- virtual 
 	- abstract classes vs interfaces
 	- multiple inheritance diamond problem
