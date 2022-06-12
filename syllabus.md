@@ -182,7 +182,7 @@ Examination questions will consists of:
 	- abstract classes
 	- virtual 
 	- abstract classes vs interfaces
-	- multiple inheritance diamond problem
+	- multiple inheritance double diamond problem
 	- simulation of multiple inheritance with interfaces
 	- private, public, protected, internal modifiers
 
