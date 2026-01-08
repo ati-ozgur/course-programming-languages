@@ -18,4 +18,16 @@
 ```{.javascript include="../course-content/examples/hello_world.js" }
 ```
 
+## Benzerlikler
+
+- C-Stili yazım 4 dilde 
+- Süslü parantezler { }
+- cümle bitimi ; (TS için opsiyon)
+- control akışı (if, for, while)
+
+
+| Feature        | C#          | Java    | TypeScript          |
+| -------------- | ----------- | ------- | ------------------- |
+| Type required  | Yes         | Yes     | Optional (inferred) |
+| Type inference | Yes (`var`) | Yes (`var`) | Yes                 |
 
