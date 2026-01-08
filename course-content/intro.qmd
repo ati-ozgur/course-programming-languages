@@ -35,4 +35,4 @@
 ## Karşılaştırma
 
 
-{{< include ../course-content/tables/table-dotnet-vs-java-unified comparison.md >}}
+{{< include ../course-content/tables/table-dotnet-vs-java-unified-comparison.md >}}
