@@ -11,3 +11,9 @@
 ```{.java include="../course-content/examples/hello_world.java" }
 ```
 
+```{.cs include="../course-content/examples/hello_world.cs" }
+```
+
+
+```{.javascript include="../course-content/examples/hello_world.js" }
+```
