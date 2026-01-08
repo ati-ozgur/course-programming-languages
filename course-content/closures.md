@@ -1,4 +1,4 @@
-closueres.md
+closures.md
 
 https://en.wikipedia.org/wiki/Closure_(computer_programming)
 
