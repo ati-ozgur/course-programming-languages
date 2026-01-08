@@ -7,7 +7,7 @@ book:
   date: "1/8/2026"
   chapters:
     - index.qmd
-    - intro.qmd
+    - course-content/intro.qmd
     - summary.qmd
     - references.qmd
 
