@@ -3,7 +3,7 @@ project:
 
 book:
   title: "Java,Typescript to C#"
-  author: "Norah Jones"
+  author: "Atilla Özgür"
   date: "1/8/2026"
   chapters:
     - index.qmd
