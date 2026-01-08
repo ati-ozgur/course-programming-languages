@@ -82,8 +82,6 @@ brew install node@22
 
 ### .NET in Linux
 
-
-
 ```bash
 # install the latest version
 mise use dotnet
@@ -92,5 +90,23 @@ mise use dotnet
 mise use dotnet@8
 mise use dotnet@9
 
+```
+### Java in Linux
+
+```bash
+mise use java@openjdk-21
+mise use java@21         # alternate shorthands for openjdk-only
+
+mise use java@temurin        # latest version from Temurin
+mise use java@temurin-21
+mise use java@zulu-21
+mise use java@corretto-21
+
+```
+### node for javascript/typescript in Linux
+
+```bash
+mise use -g node@20 # global install
+mise use node@24
 ```
 
