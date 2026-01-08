@@ -22,3 +22,7 @@
 - Java: Strongly typed, simpler primitives, everything else is an object
 
 - TypeScript: Structural typing, flexible, compile-time only, JS runtime
+
+
+{{< include ../course-content/auto-boxing.md >}}
+
