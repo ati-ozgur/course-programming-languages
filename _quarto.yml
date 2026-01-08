@@ -1,6 +1,7 @@
 project:
   type: book
-
+filters:
+   - include-code-files
 book:
   title: "Java,Typescript to C#"
   author: "Atilla Özgür"

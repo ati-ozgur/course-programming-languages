@@ -4,3 +4,10 @@
 ## Tarihçe
 
 {{< include ../course-content/tables/table-history-csharp-java-javascript-typescript.md >}}
+
+
+## Merhaba Dünya (Hello World)
+
+```{.java include="../course-content/examples/hello_world.java" }
+```
+
