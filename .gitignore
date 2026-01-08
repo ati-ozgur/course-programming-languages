@@ -1,3 +1,4 @@
+_book/*
 *temp*
 *bin*
 *obj*
@@ -279,3 +280,6 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+/.quarto/
+**/*.quarto_ipynb
