@@ -1,9 +1,9 @@
-## Kurulum/installation
+# Kurulum/installation
 
+## Windows Java/.NET/Node/Deno
 
-### Windows Java/.NET/Node/Deno
+### .NET in Windows
 
-**.NET**
 ```cmd
 scoop bucket add versions
 scoop install versions/dotnet7-sdk
@@ -11,7 +11,9 @@ scoop install versions/dotnet8-sdk
 scoop install versions/dotnet9-sdk
 scoop install versions/dotnet10-sdk
 ```
-**Java**
+
+### Java in Windows
+
 
 ```cmd
 REM latest version
@@ -22,7 +24,9 @@ scoop install java/openjdk25
 scoop install java/openjdk24
 
 ```
-**node for javascript/typescript**
+
+### node for javascript/typescript in Windows
+
 
 ```cmd
 REM latest version
@@ -34,9 +38,10 @@ scoop install versions/nodejs24
 
 ```
 
+## MacOS
 
-### Linux .NET
 
+### .NET in MacOS
 
 ```bash
 # install the latest version/10
@@ -48,9 +53,35 @@ brew install dotnet@9
 brew install dotnet@8
 
 ```
+### Java in MacOS
+
+```bash
+# install the latest version/10
+brew install openjdk
+
+# install a specific version (8, 9, etc.)
+brew install openjdk@21
+brew install openjdk@17
+
+```
 
 
-### Linux .NET
+### node for javascript/typescript in MacOS
+```bash
+# install the latest version/10
+brew install node
+
+# install a specific version (8, 9, etc.)
+brew install node@24
+brew install node@22
+
+```
+
+
+## Linux
+
+### .NET in Linux
+
 
 
 ```bash
