@@ -13,3 +13,12 @@
 | Value types     | `struct`, primitives       | primitives                                | ❌ (all objects)                  |
 | Reference types | `class`, `array`, `string` | `class`, `array`, `String`                | objects, arrays, functions       |
 | Pass-by         | Value or reference         | Always value (references passed by value) | Always value (object references) |
+
+
+## Quick Mental Model
+
+- C#: Strongly typed, rich numeric system, value vs reference types
+
+- Java: Strongly typed, simpler primitives, everything else is an object
+
+- TypeScript: Structural typing, flexible, compile-time only, JS runtime

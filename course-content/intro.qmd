@@ -31,3 +31,8 @@
 | Type required  | Yes         | Yes     | Optional (inferred) |
 | Type inference | Yes (`var`) | Yes (`var`) | Yes                 |
 
+
+## Karşılaştırma
+
+
+{{< include ../course-content/tables/table-dotnet-vs-java-unified comparison.md >}}
