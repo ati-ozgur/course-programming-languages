@@ -17,3 +17,6 @@
 
 ```{.javascript include="../course-content/examples/hello_world.js" }
 ```
+
+
+{{< include ../course-content/installation.md >}}
