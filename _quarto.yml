@@ -10,6 +10,7 @@ book:
     - index.qmd
     - course-content/intro.qmd
     - course-content/installation.qmd
+    - course-content/data-types.qmd
     - summary.qmd
     - references.qmd
 

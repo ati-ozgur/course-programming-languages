@@ -1,0 +1,15 @@
+# data-types (Veri tipleri)
+
+
+## En çok kullanılan temel tipler
+
+{{< include ../course-content/tables/table-datatypes-basic.md >}}
+
+
+## Primitive/value/reference tipleri
+
+| Concept         | C#                         | Java                                      | TypeScript                       |
+| --------------- | -------------------------- | ----------------------------------------- | -------------------------------- |
+| Value types     | `struct`, primitives       | primitives                                | ❌ (all objects)                  |
+| Reference types | `class`, `array`, `string` | `class`, `array`, `String`                | objects, arrays, functions       |
+| Pass-by         | Value or reference         | Always value (references passed by value) | Always value (object references) |
