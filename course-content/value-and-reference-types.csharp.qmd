@@ -1,0 +1,13 @@
+# Value And Reference Types C#
+
+## Struct Örnek 1
+
+```{.cs include="../course-content/examples/value_reference_type_examples/struct_example_document.cs" }
+```
+
+
+
+
+## Bağlantılar
+
+https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct

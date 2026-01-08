@@ -11,6 +11,7 @@ book:
     - course-content/intro.qmd
     - course-content/installation.qmd
     - course-content/data-types.qmd
+    - course-content/value-and-reference-types.csharp.qmd
     - summary.qmd
     - references.qmd
 
