@@ -28,6 +28,23 @@ Struct örneğinde anahtar kelimeyi class ile değiştirelim.
 ```{.cs include="../course-content/examples/value_reference_type_examples/class_example_document.cs" }
 ```
 
+## Quiz
+
+**java**
+
+
+```{.java include="../course-content/examples/value_reference_type_examples/HeapQuiz.java" }
+```
+
+**CSharp**
+
+```{.cs include="../course-content/examples/value_reference_type_examples/HeapQuiz.cs" }
+```
+**javascript**
+
+```{.js include="../course-content/examples/value_reference_type_examples/HeapQuiz.js" }
+```
+
 
 ## Bağlantılar
 
