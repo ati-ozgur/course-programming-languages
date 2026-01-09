@@ -1,11 +1,32 @@
 # Value And Reference Types C#
 
-## Struct Örnek 1
+Örnekler [Value And Reference Types In Swift](https://www.swift.org/documentation/articles/value-and-reference-types.html) alınıp, uyarlanmıştır.
+
+Bir dokuman üstünde çalıştığınızı düşünelim.
+Bunu paylaşmak için 2 yaygın yöntem vardır.
+
+1. dokumanın bir kopyasını eposta atabilirsiniz.
+2. bulut üstünde (icloud,onedrive,dropbox) yükleyip, bağlantısını gönderebilirsiniz. 
+
+
+Value ve reference tipleri farkı bu iş akışına benzer.
+Value kopyasını göndermek iken, referans tipleri bağlantıyı göndermektir.
+
+
+ 
+
+
+## Value Struct Örnek 1
 
 ```{.cs include="../course-content/examples/value_reference_type_examples/struct_example_document.cs" }
 ```
 
+## Value Class Örnek 1
 
+Struct örneğinde anahtar kelimeyi class ile değiştirelim.
+
+```{.cs include="../course-content/examples/value_reference_type_examples/class_example_document.cs" }
+```
 
 
 ## Bağlantılar
