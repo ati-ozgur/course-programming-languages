@@ -14,11 +14,18 @@
 ```
 
 **çalıştırma**
+
 Yeni java (11+) versiyonları tek bir dosya çalıştırmamıza izin veriyor
 
 ```bash
 java hello_world.java
 ```
+
+**Eski versiyon**
+
+```{.cs include="../course-content/examples/hello_world_old.java" }
+```
+
 ## Merhaba Dünya C#
 
 
@@ -26,11 +33,18 @@ java hello_world.java
 ```
 
 **Çalıştırma**
+
 Yeni .net (10) versiyonu tek bir dosya çalıştırmamıza izin veriyor
 
 ```bash
 dotnet run hello_world.cs
 ```
+
+**Eski versiyon**
+
+```{.cs include="../course-content/examples/hello_world_old.cs" }
+```
+
 
 ## Merhaba Dünya Javascript/Typescript
 
