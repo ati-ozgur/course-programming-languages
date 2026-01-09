@@ -8,14 +8,42 @@
 
 ## Merhaba Dünya (Hello World)
 
+## Merhaba Dünya Java
+
 ```{.java include="../course-content/examples/hello_world.java" }
 ```
+
+**çalıştırma**
+Yeni java (11+) versiyonları tek bir dosya çalıştırmamıza izin veriyor
+
+```bash
+java hello_world.java
+```
+## Merhaba Dünya C#
+
 
 ```{.cs include="../course-content/examples/hello_world.cs" }
 ```
 
+**Çalıştırma**
+Yeni .net (10) versiyonu tek bir dosya çalıştırmamıza izin veriyor
+
+```bash
+dotnet run hello_world.cs
+```
+
+## Merhaba Dünya Javascript/Typescript
 
 ```{.javascript include="../course-content/examples/hello_world.js" }
+```
+
+**Çalıştırma javascript/typescript**
+
+node yeni versiyonları typescript otomatik çalıştırıyor.
+
+
+```bash
+node hello_world.js
 ```
 
 ## Benzerlikler
