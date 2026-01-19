@@ -15,13 +15,23 @@
 | Pass-by         | Value or reference         | Always value (references passed by value) | Always value (object references) |
 
 
-## Quick Mental Model
+## Hızlı Hatırlama Modeli
+
+Java: Kesin tipli, daha basit temel veri tipleri, geri kalan her şey nesne
+
+C#: Kesin tipli, zengin sayısal sistem, değer ve referans tipleri
+
+TypeScript: Yapısal tipleme, esnek, yalnızca derleme zamanı, JS çalışma zamanı
 
 - C#: Strongly typed, rich numeric system, value vs reference types
 
 - Java: Strongly typed, simpler primitives, everything else is an object
 
 - TypeScript: Structural typing, flexible, compile-time only, JS runtime
+
+
+{{< include ../course-content/float.qmd >}}
+
 
 
 {{< include ../course-content/auto-boxing.md >}}

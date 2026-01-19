@@ -1,0 +1,18 @@
+## float
+
+### java float
+
+```{.java include="../course-content/examples/float_for_loop1.java" }
+```
+
+### javascript float
+
+
+```{.js include="../course-content/examples/float_for_loop1.js" }
+```
+
+
+### C# float
+
+```{.cs include="../course-content/examples/float_for_loop1.cs" }
+```
