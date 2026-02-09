@@ -11,7 +11,8 @@ book:
     - course-content/intro.qmd
     - course-content/installation.qmd
     - course-content/data-types.qmd
-    - course-content/value-and-reference-types.csharp.qmd
+    - course-content/value-and-reference-types-csharp.qmd
+    - course-content/conditional-statements.qmd
     - summary.qmd
     - references.qmd
 
