@@ -19,8 +19,11 @@ Java 7 (Temmuz 2011)'den önce string değişkenler switch içinde kullanılamı
 
 ## switch expression
 
+### Java switch expression
 
 ```{.java include="../course-content/examples/switch_expressions1.java" }
 ```
 
+```{.java include="../course-content/examples/switch_expressions2_yield.java" }
+```
 
