@@ -26,3 +26,35 @@ for (type variableName : arrayName) {
   // code block to be executed
 }
 ```
+
+
+### Javascript 
+
+for...of (closest equivalent)
+
+```js
+const numbers = [1, 2, 3];
+
+for (const n of numbers) {
+    console.log(n);
+}
+```
+
+
+
+for...in for keys (not values) — common source of bugs
+
+```js
+const arr = ["a", "b", "c"];
+
+for (const i in arr) {
+    console.log(i);   // "0", "1", "2"  (indexes!)
+}
+
+for (const v of arr) {
+    console.log(v);   // "a", "b", "c"  (values)
+}
+
+
+```
+
