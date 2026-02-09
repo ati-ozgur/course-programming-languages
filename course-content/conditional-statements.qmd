@@ -14,3 +14,7 @@
 break c# için zorunludur.
 Fall-through bugları oluşmaz.
 
+Java 7 (Temmuz 2011)'den önce string değişkenler switch içinde kullanılamıyordu.
+
+
+
