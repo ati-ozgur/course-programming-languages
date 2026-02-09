@@ -1,0 +1,28 @@
+# loops
+
+## for loops
+
+## while loops
+
+## do-while loops
+
+
+## For each loops
+
+c#
+
+```cs
+foreach (type variableName in arrayName) 
+{
+  // code block to be executed
+}
+```
+
+java
+
+
+```java
+for (type variableName : arrayName) {
+  // code block to be executed
+}
+```

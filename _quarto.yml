@@ -13,6 +13,7 @@ book:
     - course-content/data-types.qmd
     - course-content/value-and-reference-types-csharp.qmd
     - course-content/conditional-statements.qmd
+    - course-content/loops.qmd
     - summary.qmd
     - references.qmd
 
