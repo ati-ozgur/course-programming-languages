@@ -17,4 +17,10 @@ Fall-through bugları oluşmaz.
 Java 7 (Temmuz 2011)'den önce string değişkenler switch içinde kullanılamıyordu.
 
 
+## switch expression
+
+
+```{.java include="../course-content/examples/switch_expressions1.java" }
+```
+
 
