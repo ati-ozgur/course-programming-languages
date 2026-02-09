@@ -5,7 +5,7 @@ filters:
 book:
   title: "Java,Typescript to C#"
   author: "Atilla Özgür"
-  date: "1/8/2026"
+  date: "today"
   chapters:
     - index.qmd
     - course-content/intro.qmd
