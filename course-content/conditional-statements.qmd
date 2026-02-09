@@ -32,3 +32,5 @@ Java 7 (Temmuz 2011)'den önce string değişkenler switch içinde kullanılamı
 
 ```{.cs include="../course-content/examples/switch_expressions1.cs" }
 ```
+
+Normalde c# bir çok şeyi daha iyi yapar bu bu switch expression konusunda java yazımı bence çok daha iyi olmuş.
