@@ -1,3 +1,4 @@
+*.DS_STORE
 _book/*
 *temp*
 *bin*
